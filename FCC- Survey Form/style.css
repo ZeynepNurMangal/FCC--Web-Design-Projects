@@ -1,0 +1,27 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-image: url('https://images.unsplash.com/photo-1642161160464-d8eba8274a99?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTY0NDM0NjY3Mg&ixlib=rb-1.2.1&q=85');
+}
+
+.container {
+    background-color: rgb(224, 119, 21);
+    color: rgb(255, 247, 219);
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.formthings {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2px;
+    margin-top: 10px;
+}
