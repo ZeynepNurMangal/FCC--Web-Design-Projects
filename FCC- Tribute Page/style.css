@@ -1,0 +1,39 @@
+ul>li {
+    margin: 0 auto 20px auto;
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#main {
+    border: 2px solid rgb(4, 92, 92);
+    border-radius: 5%;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    color: rgb(23, 87, 87);
+}
+
+body {
+    background-color: rgb(255, 237, 235);
+}
+
+.navbar {
+    background-color: rgb(4, 92, 92);
+}
+
+a {
+    color: rgb(31, 151, 151);
+    text-decoration: none;
+}
+
+h5 {
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+}
