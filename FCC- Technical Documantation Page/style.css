@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+#sideNavbar {
+    position: fixed;
+    min-width: 290px;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+    border-right: solid;
+    border-color: rgb(243, 224, 202);
+    background-color: #226b80;
+    padding: 20px;
+    line-height: 200%;
+}
+
+#sidebar-head a {
+    color: #00b7c2;
+}
+
+#main-doc {
+    margin-left: 350px;
+    padding: 0px 10px;
+    line-height: 200%;
+}
+
+p {
+    text-indent: 30px;
+}
+
+body {
+    background-color: rgb(68, 68, 15);
+    background-size: cover;
+}
+
+h4>a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
